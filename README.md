@@ -3,4 +3,4 @@
        alt="snake" /></a>
 </div>
 
-„Confusion is part of Programming“ - literally everyone ever
+„Confusion is a part of programming.“ - literally everyone ever
